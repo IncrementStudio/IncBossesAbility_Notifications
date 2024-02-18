@@ -1,0 +1,7 @@
+name: IncBossesAbility_Notifications
+version: '${project.version}'
+main: ru.incrementstudio.incbosses.abilities.incbossesability_notifications.Main
+api-version: '1.16'
+author: IncrementStudio++
+description: Способность для плагина IncBosses, добавляющая уведомления о начале или конце фазы!
+website: incrementstudio.ru
